@@ -49,7 +49,15 @@ Model terbaik diterapkan untuk mendeteksi warna objek secara real-time menggunak
 5. Numpy
 6. Matplotlib
 7. CNN Models: VGG16, Xception, NASNet Mobile
-   
+
+
+**Dataset**
+1. Link Dataset Utama :   https://www.kaggle.com/datasets/trushraut18/colour-classification 
+
+2. Link Dataset Tambahan 1 Kelas Kuning : https://www.kaggle.com/datasets/imoore/6000-store-items-images-classified-by-color?resource=download
+
+3. Link Dataset Tambahan 2 Kelas Kuning: https://www.kaggle.com/datasets/brasarkaya/vehicle-color-dataset
+
 
 💡 **Tujuan Penelitian**
 
